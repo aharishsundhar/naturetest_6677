@@ -1,0 +1,7 @@
+{
+  "name": "naturetest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
